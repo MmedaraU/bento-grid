@@ -67,8 +67,8 @@ main {
   div {
     // min-height: 1rem;
     margin: 1.5rem;
-    padding: 15px;
-    border: 1px solid black;
+    padding: 1rem;
+    // border: 1px solid black;
     border-radius: 5px;
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
@@ -77,7 +77,7 @@ main {
     overflow: hidden;
 
     & > img {
-      margin: 30px 0px;
+      margin: 1.85rem 0px;
     }
 
     &:first-of-type {
