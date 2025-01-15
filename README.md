@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Live Site URL](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/bento-grid-using-css-grid-and-flexbox-f8AGcLte3_)
+- [Live Site URL](https://mmedarau.github.io/bento-grid/)
 
 ## My process
 
@@ -55,7 +55,7 @@ Users should be able to:
     font-size: 100%;
     }
   ```
-  Instead of just this:
+  Instead of this:
     ```css
     body {
     font-size: 100%;
